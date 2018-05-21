@@ -30,7 +30,11 @@ tags:
 ![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
 
 
+<<<<<<< HEAD
 ## Installation
+=======
+##最后
+>>>>>>> parent of e173aa9... Update 5000-07-20-n-Get start.md
 
 Check whether you have `Ruby 2.1.0` or higher installed:
 
