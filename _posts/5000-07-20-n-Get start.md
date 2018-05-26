@@ -30,14 +30,6 @@ tags: start
 
 ~~我要是会用就好了~~
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Installation
-=======
-##最后
->>>>>>> parent of e173aa9... Update 5000-07-20-n-Get start.md
-=======
 ## 最后
->>>>>>> parent of 3fa1943... hhh
 
 纵去远，以渐跻？
