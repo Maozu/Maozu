@@ -283,7 +283,7 @@ sidebar:
 #Blog rolls
 links_title: Links
 links_layout: block
-links_layout: inline
+#links_layout: inline
 links:
   Stay Hungry,Stay Foolish: http://tobiaslee.top/
   心渡的小黑屋: http://blog.xindu233.com/
