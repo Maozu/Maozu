@@ -280,7 +280,7 @@ sidebar:
   scrollpercent: false
 
 
- Blog rolls
+#Blog rolls
 links_title: Links
 links_layout: block
 links_layout: inline
