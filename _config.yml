@@ -279,8 +279,7 @@ sidebar:
   # Scroll percent label in b2t button
   scrollpercent: false
 
-
- #Blog rolls
+Blog rolls
 links_title: Links
 links_layout: block
 #links_layout: inline
@@ -289,6 +288,13 @@ links:
   心渡的小黑屋: http://blog.xindu233.com/
   Keybrl's blog: https://blog.keybrl.com/
 
+=======
+# Blog rolls
+#links_title: Links
+#links_layout: block
+#links_layout: inline
+#links:
+  #Title: http://example.com/
 
 
 # ---------------------------------------------------------------
