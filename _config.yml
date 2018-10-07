@@ -64,7 +64,7 @@ feed:
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
-plugins:
+plugins_dir:
 # jemoji conficts with toc in some no-ascii post
 # - jemoji
  - jekyll-sitemap
@@ -280,13 +280,13 @@ sidebar:
   scrollpercent: true
 
 #Blog rolls
-links_title: Links
-links_layout: block
+links_title: 友情链接
+#links_layout: block
 #links_layout: inline
 links:
+  Keybrl's blog: https://blog.keybrl.com/
   Stay Hungry,Stay Foolish: http://tobiaslee.top/
   心渡的小黑屋: http://blog.xindu233.com/
-  Keybrl's blog: https://blog.keybrl.com/
 
 
 # Blog rolls
@@ -711,5 +711,7 @@ images: assets/images
 # Theme version
 version: 5.1.1
 repository: Maozu/Maozu
-auto: true
+#auto: true
 disqus_shortname: your-disqus-shortname
+
+gems: [jekyll-paginate]
