@@ -6,7 +6,7 @@
 # Site
 title: Nothing important
 subtitle:
-description:
+#description:
 author: Maozu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+#url:
 baseurl:
 permalink: pretty
 
@@ -713,3 +713,17 @@ repository: Maozu/Maozu
 disqus_shortname: your-disqus-shortname
 
 gems: [jekyll-paginate]
+
+
+#name:         Nothing_important
+#
+#description:  Maozu
+#
+#url:          http://blog.maozu.ink
+
+name: Nothing_important
+description:
+url: http://blog.maozu.ink
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
