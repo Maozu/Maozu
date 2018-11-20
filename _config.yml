@@ -731,6 +731,15 @@ feed_update_frequency: 1
 
 # github: [metadata]
 
-duoshuo:
+# duoshuo:
+#   enable: true
+#   shortname: your-duoshuo-shortname
+
+valine_comment:
   enable: true
-  shortname: your-duoshuo-shortname
+# app_id
+  leancloud_appid: Pi29BwjpEbrIgiqefnHXwyaW-gzGzoHsz
+# app_key
+  leancloud_appkey: rwxDSRy1gPHhPv19DJfOVod7
+# placeholde
+  placeholder: “Just go go"
