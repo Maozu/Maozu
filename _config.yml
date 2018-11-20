@@ -6,7 +6,7 @@
 # Site
 title: Nothing important
 subtitle:
-#description:
+description:
 author: Maozu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-#url:
+url:
 baseurl:
 permalink: pretty
 
@@ -377,7 +377,7 @@ mathjax:
 han: false
 
 # Swiftype Search API Key
-swiftype_key: CCkbzU_m2oX_FL_sjAN-
+# swiftype_key: CCkbzU_m2oX_FL_sjAN-
 
 # Baidu Analytics ID
 #baidu_analytics:
@@ -603,7 +603,7 @@ pace: true
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
@@ -712,7 +712,7 @@ repository: Maozu/Maozu
 #auto: true
 disqus_shortname: your-disqus-shortname
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 #name:         Nothing_important
@@ -727,3 +727,10 @@ url: http://blog.maozu.ink
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
+
+
+# github: [metadata]
+
+duoshuo:
+  enable: true
+  shortname: your-duoshuo-shortname
