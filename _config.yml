@@ -434,7 +434,7 @@ changyan:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-135695659-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -528,7 +528,7 @@ busuanzi_count:
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: false
 
-# Google Calendar
+#Google  Calendar
 # Share your recent schedule to others via calendar page
 #
 # API Documentation:
